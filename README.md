@@ -17,11 +17,11 @@
 
 * Classes: There are 3 different classes of wine in the dataset.
 
-Class 0: This typically represents one type of wine (e.g., a specific varietal like "class 0").
+      Class 0: This typically represents one type of wine (e.g., a specific varietal like "class 0").
 
-Class 1: This represents another type of wine (e.g., a different varietal or category).
+      Class 1: This represents another type of wine (e.g., a different varietal or category).
 
-Class 2: This represents the third type of wine.
+      Class 2: This represents the third type of wine.
 
 * The dataset is commonly used for classification tasks in machine learning, such as predicting the type of wine based on its chemical properties.
 
